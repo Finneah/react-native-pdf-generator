@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.author         = package['author']
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/herbert84/react-native-pdf-generator.git", :tag => "master" }
-  s.source_files  = "./*.{h,m}"
+  s.source_files  = "ios/**/*.{h,m}"
   s.requires_arc = true
   s.dependency "React"
 

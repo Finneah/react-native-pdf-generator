@@ -1,5 +1,5 @@
 {
-    "name": "hz-react-native-pdf-generator",
+    "name": "rn-pdf-generator",
     "version": "1.0.1",
     "description": "React Native Native Module Bridge Quicklock Document Viewer for IOS -Supports pdf, png, jpg, xls, ppt, doc, docx, pptx, xlx",
     "main": "index.js",
@@ -20,10 +20,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/herbert84/react-native-pdf-generator.git"
+        "url": "git+https://github.com/Finneah/react-native-pdf-generator.git"
     },
-    "homepage": "https://github.com/herbert84/react-native-pdf-generator/blob/master/README.md",
+    "homepage": "https://github.com/Finneah/react-native-pdf-generator/blob/master/README.md",
     "bugs": {
-        "url": "https://github.com/herbert84/react-native-pdf-generator/issues"
+        "url": "https://github.com/Finneah/react-native-pdf-generator/issues"
     }
 }
