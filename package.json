@@ -1,5 +1,5 @@
 {
-    "name": "rn-pdf-generator",
+    "name": "react-native-pdf-generator",
     "version": "1.0.1",
     "description": "React Native Native Module Bridge Quicklock Document Viewer for IOS -Supports pdf, png, jpg, xls, ppt, doc, docx, pptx, xlx",
     "main": "index.js",
@@ -13,11 +13,8 @@
         "html to pdf",
         "html2pdf"
     ],
-    "author": "Herbert ZHAO",
+    "author": "Jennifer Schnaible",
     "license": "MIT",
-    "dependencies": {
-        "react-native": "^0.59.9"
-    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Finneah/react-native-pdf-generator.git"
